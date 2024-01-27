@@ -1,5 +1,4 @@
 -- 1. Total Revenues
-
 SELECT SUM(total_price) AS Total_Revenue FROM pizza_sales;
 
 -- 2. Average Order Value
